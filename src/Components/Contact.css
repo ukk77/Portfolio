@@ -1,0 +1,60 @@
+.contact-form{
+    width:80%;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-bottom: 2%;
+    /* background-image: rgba(); */
+    background: rgba(255, 255, 255, 0.45);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    backdrop-filter: blur( 20px );
+    -webkit-backdrop-filter: blur( 20px );
+    border-radius: 10px;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+}
+
+.titleP{
+    font-size: calc(10px + 1vw);
+    opacity: 0.5;
+}
+
+.fieldName{
+    width: 10%;
+    font-size: calc(6px + 1vw);
+    margin: 1.5vw 2vw 1.5vw 2vw;
+    opacity: 0.5;
+}
+
+.nameField{
+    display: flex;
+    margin: 1.5vw;
+    justify-content: center;
+}
+
+.emailField{
+    display: flex;
+    margin: 1.5vw;
+    justify-content: center;
+}
+
+.subjectField{
+    display: flex;
+    margin: 1.5vw;
+    justify-content: center;
+}
+
+.messageField{
+    display: flex;
+    margin: 1.5vw;
+    justify-content: center;
+}
+
+.sendButton{
+    display: flex;
+    margin: 2vw;
+    justify-content: center;
+}

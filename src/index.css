@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: "Brush Script MT",  "Lucida Handwriting", Cursive;
+  /* background-color: rgb(143, 197, 188); */
+  background: linear-gradient(-45deg, #87cee7, #95e4d1);
+	background-size: 110% 110%;
+	opacity: 1;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
